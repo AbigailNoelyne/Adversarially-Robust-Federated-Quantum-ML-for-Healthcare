@@ -1,0 +1,13 @@
+# requirements.txt — Quantum FL Paper
+# Install with: pip install -r requirements.txt
+# Python 3.10 or higher required
+
+torch>=2.2.0
+pennylane>=0.38.0
+pennylane-lightning>=0.38.0
+numpy>=1.26.4
+scikit-learn>=1.4.2
+pandas>=2.2.2
+matplotlib>=3.8.4
+scipy>=1.13.1
+seaborn>=0.13.2
